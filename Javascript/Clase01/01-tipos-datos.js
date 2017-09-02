@@ -20,6 +20,8 @@ var altura = 1.90
 var valorPI = 3.141678989
 var color = 0xFF0000
 
+
+
 var finJuego = false
 var activo = true
 
@@ -39,3 +41,4 @@ console.log(edadPromedio)
 
 var edadCadena = '40'
 console.log(edadCadena + 10)
+console.log(edadCadena * 10)
